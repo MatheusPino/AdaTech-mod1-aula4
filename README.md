@@ -1,6 +1,4 @@
-# Exercícios - Aula 4
-
-[Aula 4](https://bruno-cabral.notion.site/Aula-4-39862ecda2b7490d8759fbdf38c9f3c4)
+# [Aula 4](https://bruno-cabral.notion.site/Aula-4-39862ecda2b7490d8759fbdf38c9f3c4)
 
 ## Exercício 1
 
