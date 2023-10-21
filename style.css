@@ -20,12 +20,17 @@ img {
 	width: 50vw;
 }
 
-.padding-footer{
-	padding-top: 64px;
-	padding-bottom: 16px;
+.texto-azul:hover {
+	color: #e50278;
 }
 
-.imagem-card{
+.padding-footer {
+	padding-top: 48px;
+	padding-bottom: 16px;
+	color: #1b1d57;
+}
+
+.imagem-card {
 	width: 40%;
 	min-width: 200px;
 	min-height: 50px;
@@ -56,10 +61,8 @@ img {
 	border: solid 2px #e50278;
 }
 
-.card-hover :hover{
-	box-sizing: 16px;
+.card-hover :hover {
 	border-color: #2E3192;
-	color: #e50278;
 }
 
 .caixa-texto {
@@ -93,13 +96,14 @@ img {
 
 .menu-nav td {
 	padding: 32px;
-	border-bottom: solid 4px var(--azul-logo);
-	border-top: solid 4px var(--azul-logo);
+	border-bottom: solid 12px var(--azul-logo);
+	border-top: solid 12px var(--azul-logo);
 }
 
 .texto-azul {
 	color: #1b1d57;
 	font-size: 20px;
+	transition: 0.3s;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -122,5 +126,5 @@ img {
 }
 
 .item-nav:hover {
-	color: var(--cor-texto-hover);
+	color: #e50278;
 }
